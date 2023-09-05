@@ -5,7 +5,7 @@ class Employee:
         self.age = age
         self.salary = salary
 
-
+# data
 
     def __str__(self):
 
